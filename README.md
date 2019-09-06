@@ -1,4 +1,4 @@
-# repaitMampMysqlServer
+# Repair MAMP MySQL Server
 
 
 Small shell script to repair MAMP SQL Server on Mac machines with standard installation config. It works by 
